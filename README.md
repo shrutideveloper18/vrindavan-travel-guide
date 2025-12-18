@@ -37,7 +37,7 @@ https://shrutideveloper18.github.io/vrindavan-travel-guide/
 
 ## Purpose of the Project
 
-This project was created as a **practice project** to improve my frontend skills and to share a simple travel guide experience. It is also my **first project** that I am sharing on GitHub and LinkedIn.
+This project was created as a **practice project** to improve my frontend skills and to share a simple travel guide experience. 
 
 ---
 
